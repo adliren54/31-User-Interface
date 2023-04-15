@@ -29,7 +29,6 @@ print(f"{colorChange('purple')}{pause:>35}")
 
 print()
 print()
-print()
 text = "WELCOME TO"
 print(f"{colorChange('white')}{text:^35}")
 text = "--  ARMBOOK  --"
